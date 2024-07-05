@@ -1,0 +1,170 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: "Poppins-Regular";
+	src: url("../fonts/poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Poppins-SemiBold";
+	src: url("../fonts/poppins/Poppins-SemiBold.ttf");
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Poppins-Regular";
+	color: #333;
+	font-size: 13px;
+	margin: 0;
+}
+
+input, textarea, select, button {
+	font-family: "Poppins-Regular";
+	color: #333;
+	font-size: 13px;
+}
+
+p, h1, h2, h3, h4, h5, h6, ul {
+	margin: 0;
+}
+
+h3 {
+	margin-top: 0;
+}
+
+img {
+	width: 100%;
+}
+
+ul {
+	padding-left: 0;
+	margin-bottom: 0;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+:focus {
+	outline: none;
+}
+
+.wrapper {
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+}
+
+.inner {
+	padding: 30px;
+    background: #fff;
+    width: 700px;
+    margin: auto;
+    display: block;
+}
+
+.inner form {
+	    width: 92%;
+    padding-top: 5px;
+    padding-left: 65px;
+    padding-right: 17px;
+}
+
+.inner h3 {
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: "Poppins-SemiBold";
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.form-group {
+	display: flex;
+}
+
+.form-group input {
+	width: 70%;
+}
+
+.form-group input:first-child {
+	margin-right: 25px;
+}
+
+
+.form-group radio:first-child {
+	margin-right: 25px;
+}
+.form-wrapper {
+	position: relative;
+}
+
+
+.form-control {
+	border: 1px solid #333;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	display: block;
+	width: 100%;
+    height: 40px; 
+	padding: 0;
+	margin-bottom: 25px;
+}
+
+.form-control::-webkit-input-placeholder {
+	font-size: 13px;
+	color: #333;
+	font-family: "Poppins-Regular";
+}
+
+.form-control::-moz-placeholder {
+	font-size: 13px;
+	color: #333;
+	font-family: "Poppins-Regular";
+}
+
+.form-control:-ms-input-placeholder {
+	font-size: 13px;
+	color: #333;
+	font-family: "Poppins-Regular";
+}
+
+.form-control:-moz-placeholder {
+	font-size: 13px;
+	color: #333;
+	font-family: "Poppins-Regular";
+}
+
+select {
+	cursor: pointer;
+	padding-left: 20px;
+}
+
+select option[value=""][disabled] {
+	display: none;
+}
+
+button {
+	border: none;
+	width: 164px;
+	height: 51px;
+	margin: auto;
+	margin-top: 40px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+	background: #333;
+	font-size: 15px;
+	color: #fff;
+	vertical-align: middle;
+}
+

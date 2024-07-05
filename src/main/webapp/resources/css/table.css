@@ -1,0 +1,14 @@
+.red-icon {
+    color: red;
+    margin-right: 20px;
+}
+
+.blue-icon {
+  margin-right: 20px;
+    color: blue;
+}
+
+.icon-container {
+   /* Adjust the margin as per your preference */
+    text-align: center;
+}

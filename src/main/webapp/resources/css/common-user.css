@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* user dashboard */
+.body{
+	background-color: #edf7fa;
+}
+
+.red-icon {
+	color: red;
+	text-align: center;
+}
+
+.green-icon {
+	color: green;
+	text-align: center;
+}
+
+/* main header */
+.brand-name a {
+    color: black;
+    text-decoration: none;
+}
+.dropdown .btn{
+	display: inline-flex;
+}
