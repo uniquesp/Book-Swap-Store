@@ -77,13 +77,18 @@ Welcome to the **Book Swap Store** repository! This project is designed to facil
 ## 📷 Screens
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/web-1.png)
+![Home Page](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/web-2.png)
+![Home Page](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/web-3.png)
 
-### Book Details
-![Book Details](screenshots/bookdetails.png)
+### User Details
+![User Details](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/user-registration.png)
+![User Details](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/u-orderhistory.png)
+![User Details](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/user-wishlist.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admindashboard.png)
+![Admin Dashboard](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/admin-login.png)
+![Admin Dashboard](https://github.com/uniquesp/Book-Swap-Store/blob/main/screens/admin-dashboard.png)
 
 ---
 
