@@ -28,8 +28,6 @@ Welcome to the **Book Swap Store** repository! This project is designed to facil
 - **Profile Editing**: Users can edit their profile information.
 - **Deactivate Account**: Logout Forever.
 
-![Customer Module](https://via.placeholder.com/400x200.png?text=Customer+Module)
-
 ---
 
 ## 🔧 Admin Module
@@ -41,8 +39,6 @@ Welcome to the **Book Swap Store** repository! This project is designed to facil
 - **Book Category Management**: Admins can add, update, or delete book categories.
 - **Book Subcategory Management**: Admins can add, update, or delete book subcategories.
 - **Book Management**: Admins can add, update, or delete books from the inventory.
-
-![Admin Module](https://via.placeholder.com/400x200.png?text=Admin+Module)
 
 ---
 
@@ -57,7 +53,6 @@ Welcome to the **Book Swap Store** repository! This project is designed to facil
 | **API**            | Razorpay                                       |
 | **Database**       | MYSQL                                          |
 
-![Technology Stack](https://via.placeholder.com/400x200.png?text=Technology+Stack)
 
 ---
 
