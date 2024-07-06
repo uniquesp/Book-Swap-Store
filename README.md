@@ -47,8 +47,7 @@ Welcome to the **Book Swap Store** repository! This project is designed to facil
 | Aspect             | Description                                    |
 |--------------------|------------------------------------------------|
 | **Front End**      | HTML, CSS, BOOTSTRAP                           |
-| **Back End**       | JAVA, AJAX, JQUERY, JAVASCRIPT                 |
-| **Library**        | Google Mail                                    |
+| **Back End**       | JAVA, AJAX, JQUERY, JAVASCRIPT                 |                            
 | **Tools**          | Eclipse IDE, Tomcat, Xampp                     |
 | **API**            | Razorpay                                       |
 | **Database**       | MYSQL                                          |
